@@ -55,4 +55,5 @@ The Python code will be saved in the environment variable $PYCODE
     You are not allowed to create new variables
     You are not allowed to use string literals
 
-9-
+9-Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
+10-
