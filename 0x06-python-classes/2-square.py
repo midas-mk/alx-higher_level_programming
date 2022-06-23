@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# 2-square.p
-#midas
+# 2-square.py
+# midas
 """Define a class Square."""
 
 
